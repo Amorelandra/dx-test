@@ -1,0 +1,182 @@
+[
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502481565000,
+            "changeTime": 1502481565000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502481565000,
+            "changeTime": 1502481565000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502481565000,
+            "changeTime": 1502481565000,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "119e2f088cb7dfc60f905876a018eae1232e81fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "6cc7433c21eeecf2dafbb2e93c4d852803df86f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoComp.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoComp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1061,
+            "modifiedTime": 1502481673000,
+            "changeTime": 1502481673000,
+            "contentHash": "dc1246cdbbf3ff709d3bbcedd16785e1615e0f4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoComp.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoComp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "45f968387d7fc3234ef3a7889a72ad2143fd3fac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoComp.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoComp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoCompController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoCompController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoCompHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoCompHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoCompRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1/force-app/main/default/aura/DemoComp/DemoCompRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1502481637000,
+            "changeTime": 1502481637000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev1",
+        {
+            "state": "n",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1502481583000,
+            "changeTime": 1502481583000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
