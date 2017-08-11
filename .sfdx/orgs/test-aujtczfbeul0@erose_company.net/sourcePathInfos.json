@@ -1,0 +1,898 @@
+[
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 883,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "b957a87a920340d96e04c74d337f6cc478133690",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "119e2f088cb7dfc60f905876a018eae1232e81fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "6cc7433c21eeecf2dafbb2e93c4d852803df86f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoComp.cmp",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoComp.cmp",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "dc1246cdbbf3ff709d3bbcedd16785e1615e0f4d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoComp.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoComp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "45f968387d7fc3234ef3a7889a72ad2143fd3fac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoComp.css",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoComp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoCompController.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoCompController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoCompHelper.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoCompHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoCompRenderer.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/aura/DemoComp/DemoCompRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502482200000,
+            "changeTime": 1502482200000,
+            "contentHash": "b846a18ca49c5962523b670d3e16e95660793f5b"
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/flexipages/Demo_App.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/flexipages/Demo_App.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 694,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "3de78d7b438339c6da46625d1b84720cb7d9f684",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 16654,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "a4c67613ddc156be65d43a86428108763c9ff09a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4183,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "5f18704fbdee5f6227716c5d8bc117b5d8bf31b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4183,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "5f18704fbdee5f6227716c5d8bc117b5d8bf31b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4521,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "d94896996b2be3308a9a41d2af303a4871e03be7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "282c302ba648d8227cb1f1f13fec048e3495e5a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/tabs/Demo_App.tab-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/tabs/Demo_App.tab-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "8256523c503cf2c4b86121eba3169d5328fa704e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1502481934000,
+            "changeTime": 1502481934000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1502482023000,
+            "changeTime": 1502482023000,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "91a6295f36fbab4146e029b441730c506fcb41fd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/Storage",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/Storage",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/Storage/Storage.cmp",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/Storage/Storage.cmp",
+            "isDirectory": false,
+            "size": 904,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "d0bf7061c0b460ad409760898e914445f2227160",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/Storage/Storage.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/Storage/Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "460eac2dac483fded990b3bbd9d9a88f5d262001",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.cmp",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5392,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "52bd3832f49acef3730a6cef4b903ce10bc65c50",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "a9b505ea6ac6342161ab3bffd71e9b1b2a79c7a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.css",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.css",
+            "isDirectory": false,
+            "size": 1227,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "280c04e3286ef575957a7b84a0d74998902fe337",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.design",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.design",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "0b37241e6e873aed38fb558948b23cf10440954f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.svg",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1015,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "5b8e1a553f08203efb591c78d0ae2db10e572aec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemoController.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1052,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "eed2b073967ffab883d0a1fabec595173078c267",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemoHelper.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5787,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "7d642941e9db2957726f8d8f02b1cd34f767bcf4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemoRenderer.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpDemo/YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 722,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "6408303208163aba9389fdc0027288737ee0b02e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpService.cmp",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpService.cmp",
+            "isDirectory": false,
+            "size": 818,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "376035b755e2a9ec6450cae66dec3a04cf06504a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "4a434a4766e2d54975905af10afd328680b4d87d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpServiceController.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpServiceController.js",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "3cccdf7894edb69a4d63d900050610735fa81d00",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpServiceHelper.js",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/YelpService/YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 1989,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "453acfaedbfce74a4bc1e1d155f299e84b41e526",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/dataRetrieved",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/dataRetrieved",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/dataRetrieved/dataRetrieved.evt",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/dataRetrieved/dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "39ecb6f2ef2c4910c4bce841f2ffa26068c1ad7f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/dataRetrieved/dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/aura/dataRetrieved/dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "a9b505ea6ac6342161ab3bffd71e9b1b2a79c7a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 657,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "77a1763d205a991ac5d188a83705366b24aae5a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 809,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "fcf03979d1e4017dbaebd6a9274f6b1b39cac63d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpDemoController.cls",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1036,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "02c0f3efe636b12f89423dda6acf79c851f8a717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpServiceController.cls",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1115,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "7ca1dae34d0c5920bed214c33fbec64bed86c8d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/classes/YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "d81a886f630929346292b3967c515dcb7af6837a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/remoteSiteSettings/YelpApp.remoteSite",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/remoteSiteSettings/YelpApp.remoteSite",
+            "isDirectory": false,
+            "size": 268,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "293c05f2bca3ea27bce95ecb1680562213d0c9c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/staticresources",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/YelpDemo/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1502482012000,
+            "changeTime": 1502482012000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/erose/Source/SnackDemo/Dev2/dx-test/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6410,
+            "modifiedTime": 1502482200000,
+            "changeTime": 1502482200000,
+            "contentHash": "1fbf606b4697cfa4307508396633226c8e4f7751"
+        }
+    ]
+]
